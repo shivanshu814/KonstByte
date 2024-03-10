@@ -20,9 +20,9 @@ module.exports = {
 			chainId: 1337,
 		},
 		goerli: {
-			url: 'https://eth-mainnet.g.alchemy.com/v2/moZdFZ0Mx28-zynoNtz2NY0uAezAVlmJ',
+			url: '<url>',
 			accounts: [
-				'74a9667408d44a07893a93e39eb4039c7698211630628c33e949f440364545da',
+				'<private key>',
 			],
 		},
 	},
